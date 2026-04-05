@@ -1,6 +1,6 @@
 # document_loader.py
 # WHY: Instead of cramming all loaders into rag_pipeline.py,
-# we separate concerns — clean software design (SE teachers love this)
+# we separate concerns — clean software design 
 # Each file type has its own loader function
 
 from langchain_community.document_loaders import PyPDFLoader
