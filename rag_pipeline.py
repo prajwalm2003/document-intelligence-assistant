@@ -107,8 +107,6 @@ End with: "🌐 Source: General knowledge"
 # ==========================================
 # UPGRADE: AUTO Q&A GENERATOR
 # WHY: Automatically generates MCQ questions from document
-# Shows NLP + prompt engineering skills
-# Teachers use this to test students — very practical feature
 # ==========================================
 def generate_qa(vectorstore, num_questions=5):
     llm = get_llm()
