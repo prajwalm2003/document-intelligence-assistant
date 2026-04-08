@@ -35,6 +35,3 @@ AI-powered multi-format document Q&A system using RAG (Retrieval Augmented Gener
 
 5. Run the app
    streamlit run app.py
-
-## 📸 Demo
-[Add screenshot here after running]
